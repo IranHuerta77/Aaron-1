@@ -1,0 +1,20 @@
+h1{
+    color: blue;
+    border: 100px solid chartreuse;
+}
+p{
+    font-size: 35px;
+    border: 80px solid brown;
+}
+.parrafoextra{
+    font-size: 35px;
+    border: 10px solid red;
+}
+.parrafoamazul{
+    color: blue;
+    background-color: deeppink;
+    border: 12px solid black;
+    margin-top: 120px;
+    padding-bottom: 120px;
+
+}
